@@ -188,7 +188,7 @@ System command automation
 
 ---
 
-# 🎬 Video Demo da Aplicação
+# 🎬 Video Demo da Aplicação / Demo video of the apllication
 
 (https://www.youtube.com/watch?v=L-psttXsig8)
 
