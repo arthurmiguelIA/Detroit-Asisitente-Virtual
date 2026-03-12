@@ -190,9 +190,6 @@ System command automation
 
 # 🎬 Video Demo da Aplicação
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L-psttXsig8/0.jpg)](https://www.youtube.com/watch?v=L-psttXsig8)
-
-
-
+	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://www.youtube.com/watch?v=L-psttXsig8)
 
 
